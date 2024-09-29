@@ -1,12 +1,13 @@
-- 👋 Hi, I’m @aashishsubedi478, a digital writer and a web developer.
-- 👀 I’m a creative writer for you and your projects...
-- 🌱 I’m currently learning web dev also...
-- 💞️ I’m looking to collaborate for doing amazing projects with you ...
-- 📫 Just text me out to get in contact with me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Can be digital friend.
+👋 Hi there! I’m @aashishsubedi478, a passionate digital writer and web developer.
 
-<!---
-aashishsubedi478/aashishsubedi478 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 Creative Writer: I bring your ideas to life with engaging content for your projects.
+
+🌱 Lifelong Learner: Currently diving deep into web development to expand my skill set.
+
+💞️ Collaborator: Excited to team up and create amazing projects together.
+
+📫 Reach Out: Feel free to text me to get in touch!
+
+😄 Pronouns: he/him
+
+⚡ Fun Fact: I can be your digital friend!
